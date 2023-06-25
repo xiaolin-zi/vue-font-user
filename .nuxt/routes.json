@@ -1,0 +1,100 @@
+[
+  {
+    "name": "article",
+    "path": "/article",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\article.vue",
+    "chunkName": "pages/article",
+    "_name": "_5d758718"
+  },
+  {
+    "name": "articleDetail",
+    "path": "/articleDetail",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\articleDetail.vue",
+    "chunkName": "pages/articleDetail",
+    "_name": "_97ece9ee"
+  },
+  {
+    "name": "course",
+    "path": "/course",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\course\\\\index.vue",
+    "chunkName": "pages/course/index",
+    "_name": "_5a610a0e"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_9fb55aea"
+  },
+  {
+    "name": "question",
+    "path": "/question",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\question.vue",
+    "chunkName": "pages/question",
+    "_name": "_61196a34"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_0591b671"
+  },
+  {
+    "name": "self",
+    "path": "/self",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\self.vue",
+    "chunkName": "pages/self",
+    "_name": "_263eb4cc"
+  },
+  {
+    "name": "teacher",
+    "path": "/teacher",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\teacher\\\\index.vue",
+    "chunkName": "pages/teacher/index",
+    "_name": "_1ff85004"
+  },
+  {
+    "name": "course-id",
+    "path": "/course/:id",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\course\\\\_id.vue",
+    "chunkName": "pages/course/_id",
+    "_name": "_e87c30be"
+  },
+  {
+    "name": "orders-oid",
+    "path": "/orders/:oid?",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\orders\\\\_oid.vue",
+    "chunkName": "pages/orders/_oid",
+    "_name": "_53d00c04"
+  },
+  {
+    "name": "pay-pid",
+    "path": "/pay/:pid?",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\pay\\\\_pid.vue",
+    "chunkName": "pages/pay/_pid",
+    "_name": "_22f4cf96"
+  },
+  {
+    "name": "player-vid",
+    "path": "/player/:vid?",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\player\\\\_vid.vue",
+    "chunkName": "pages/player/_vid",
+    "_name": "_128a05c1"
+  },
+  {
+    "name": "teacher-id",
+    "path": "/teacher/:id",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\teacher\\\\_id.vue",
+    "chunkName": "pages/teacher/_id",
+    "_name": "_3203c1e6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\xiaolinzi_online_edu\\\\vue-font-user\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3304a118"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/article.js": "pages/article.js",
+    "pages/articleDetail.js": "pages/articleDetail.js",
+    "pages/course/_id.js": "pages/course/_id.js",
+    "pages/course/index.js": "pages/course/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/login.js": "pages/login.js",
+    "pages/orders/_oid.js": "pages/orders/_oid.js",
+    "pages/pay/_pid.js": "pages/pay/_pid.js",
+    "pages/player/_vid.js": "pages/player/_vid.js",
+    "pages/question.js": "pages/question.js",
+    "pages/register.js": "pages/register.js",
+    "pages/self.js": "pages/self.js",
+    "pages/teacher/_id.js": "pages/teacher/_id.js",
+    "pages/teacher/index.js": "pages/teacher/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/article.js": "pages/article.js.map",
+    "pages/articleDetail.js": "pages/articleDetail.js.map",
+    "pages/course/_id.js": "pages/course/_id.js.map",
+    "pages/course/index.js": "pages/course/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/login.js": "pages/login.js.map",
+    "pages/orders/_oid.js": "pages/orders/_oid.js.map",
+    "pages/pay/_pid.js": "pages/pay/_pid.js.map",
+    "pages/player/_vid.js": "pages/player/_vid.js.map",
+    "pages/question.js": "pages/question.js.map",
+    "pages/register.js": "pages/register.js.map",
+    "pages/self.js": "pages/self.js.map",
+    "pages/teacher/_id.js": "pages/teacher/_id.js.map",
+    "pages/teacher/index.js": "pages/teacher/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
