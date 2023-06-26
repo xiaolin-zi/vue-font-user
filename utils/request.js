@@ -4,7 +4,7 @@ import cookie from "js-cookie";
 
 // 创建axios实例
 const service = axios.create({
-    baseURL: 'http://8.130.115.225:8222/', // api的base_url
+    baseURL: 'https://edu.lookforward.top/', // api的base_url
     timeout: 20000 // 请求超时时间
 })
 
