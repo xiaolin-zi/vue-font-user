@@ -452,7 +452,7 @@ function normalizeComponent(
 
 // 创建axios实例
 const service = axios__WEBPACK_IMPORTED_MODULE_0___default.a.create({
-  baseURL: 'http://8.130.115.225:8222/',
+  baseURL: 'https://edu.lookforward.top/',
   // api的base_url
   timeout: 20000 // 请求超时时间
 });
